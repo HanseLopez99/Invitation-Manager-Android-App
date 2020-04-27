@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Lab4_AppsMoviles_LopezHansel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="registro_fragment">Registro Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="resultado_fragment">Resultados Fragment</string>
 </resources>
